@@ -1,0 +1,37 @@
+body {
+    background-color: aqua;
+    font-family: "Roboto", sans-serif;
+}
+
+h1 {
+    color: darkblue;
+    text-align: center;
+}
+
+p {
+    font-size: 1rem;
+    margin: 1rem;
+    color: darkgray;
+}
+
+ul {
+    color: black;
+    padding: 1rem;
+}
+
+.imagem{
+    width: 400px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    border-width: 5px;
+    border-style: solid;
+    border-color: blue;
+}
+
+marquee {
+    font-size: 1.2rem;
+    text-align: center;
+    color: red;
+    margin-top: 2rem;
+}
