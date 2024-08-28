@@ -1,0 +1,20 @@
+body {
+    background-color: aqua;
+    font-family: "Roboto", sans-serif;
+}
+
+p {
+    font-size: 1.5rem;
+}
+
+p.texto__primeiro {
+    font-weight: bold;
+}
+
+p.texto__segundo {
+    font-style: italic;
+}
+
+p.texto__terceiro {
+    text-decoration: underline;
+}
