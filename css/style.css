@@ -3,18 +3,35 @@ body {
     font-family: "Roboto", sans-serif;
 }
 
+h1 {
+    color: darkblue;
+    text-align: center;
+}
+
 p {
-    font-size: 1.5rem;
+    font-size: 1rem;
+    margin: 1rem;
+    color: darkgray;
 }
 
-p.texto__primeiro {
-    font-weight: bold;
+ul {
+    color: black;
+    padding: 1rem;
 }
 
-p.texto__segundo {
-    font-style: italic;
+.imagem{
+    width: 400px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    border-width: 5px;
+    border-style: solid;
+    border-color: blue;
 }
 
-p.texto__terceiro {
-    text-decoration: underline;
+marquee {
+    font-size: 1.2rem;
+    text-align: center;
+    color: red;
+    margin-top: 2rem;
 }
